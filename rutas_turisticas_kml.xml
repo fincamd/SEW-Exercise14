@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE kml SYSTEM "about:legacy-compat">
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Rutas turísticas por Asturias</name>
+    <Placemark>
+      <name>Las Xanas</name>
+      <description>
+      La Ruta de las Xanas es una ruta de senderismo de gran interés natural,
+      paisajístico y didáctico, de escasa dificultad, declarada en el año 2002
+      Monumento Natural por el Principado de Asturias. Una bonita ruta para
+      compartir con toda la familia ya que, es una ruta fácil aunque para nada
+      aburrida. Es una excursión que se puede hacer con niños pero con precaución,
+      ya que hay desfiladeros.
+      </description>
+      <LineString>
+        <tesselate>1</tesselate>
+        <extrude>1</extrude>
+        <altitudeMode>absoluto</altitudeMode>
+        <coordinates>-5.994083,43.274444,194
+                    -5.994083,43.274444,194
+                    -5.965833,43.269722,564
+                    -5.978056,43.258611,741
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>La senda del oso</name>
+      <description>
+      La senda del oso es una vía verde que discurre por los concejos de Proaza,
+      Teverga, Quirós y Santo Adriano, todos ellos en el Principado de Asturias
+      (España).
+      </description>
+      <LineString>
+        <tesselate>1</tesselate>
+        <extrude>1</extrude>
+        <altitudeMode>absoluto</altitudeMode>
+        <coordinates>-6.004836,43.263230,199
+-6.004836,43.263230,199
+-6.017466,43.248733,224
+-6.057039,43.123673,661
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>BUEÑO (RIBERA DE ARRIBA) - VIAPARÁ (RIOSA)</name>
+      <description>
+      El GR-208 "Anillo Ciclista de la Montaña Central" parte del Área Polideportiva del
+      Llosalín en Bueño (Ribera de Arriba) y toma el sendero fluvial que linda con el Río
+      Nalón y la zona polideportiva y recreativa buscando la orilla del río, el cual se
+      cruza para subir al pueblo de Palombar, siguiendo el trazado del PR- 240 de la Senda
+      Fluvial.
+      </description>
+      <LineString>
+        <tesselate>1</tesselate>
+        <extrude>1</extrude>
+        <altitudeMode>absoluto</altitudeMode>
+        <coordinates>-5.889574,43.314097,118
+-5.889574,43.314097,118
+-6.165580,43.548796,221
+-5.912086,43.244637,459
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ruta del Cares</name>
+      <description>
+      La senda que recorre la garganta del Río Cares es la ruta de senderismo más espectacular y
+      conocida del Principado de Asturias. Sin duda alguna es la más recorrida de todos los Picos de
+      Europa y, según sostienen numerosas estadísticas, se trata también de la ruta de montaña más
+      transitada de España.
+      </description>
+      <LineString>
+        <tesselate>1</tesselate>
+        <extrude>1</extrude>
+        <altitudeMode>absoluto</altitudeMode>
+        <coordinates>-4.836431,43.255167,323
+-4.836431,43.255167,266
+-4.837074,43.253835,303
+-4.905046,43.213351,465
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ruta del Alba</name>
+      <description>
+      La ruta del Alba es uno de los recorridos más asequibles y hermosos que pueden emprenderse
+      por la naturaleza asturiana. Discurre paralela al río Alba por un antiguo camino de pastores
+      y arrieros que comunicaba Sobrescobio con el vecino concejo de Aller; posteriormente esta vía
+      sirvió para la evacuación del hierro procedente de la mina Carmen, en pleno monte de Llaímo.
+      </description>
+      <LineString>
+        <tesselate>1</tesselate>
+        <extrude>1</extrude>
+        <altitudeMode>absoluto</altitudeMode>
+        <coordinates>-5.467384,43.202374,431
+-5.467384,43.202374,431
+-5.476675,43.161069,825
+-5.486989,43.154547,785
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
+
