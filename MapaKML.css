@@ -3,7 +3,7 @@ html {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#mapDiv {
-    height: 100%;
+#mapaDinamicoGoogleDeterminado {
+    height: 600px;
     width: 100%;
 }
