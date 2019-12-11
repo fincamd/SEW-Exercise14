@@ -1,7 +1,7 @@
 var miMapa = new Object();
 
 function initMap() {
-    var centro = { lat: 53.136267, lng: 12.826394 };
+    var centro = { lat: 43.3602905, lng: -5.8447599 };
     var mapaGeoposicionado = new google.maps.Map(document.getElementById('mapaDinamicoGoogleDeterminado'), {
         zoom: 8,
         center: centro,
