@@ -11,7 +11,7 @@ function initMap() {
     var marker = new google.maps.Marker({ position: centro, map: mapaGeoposicionado });
 
     var ctaLayer = new google.maps.KmlLayer({
-        url: 'https://fincamd.github.io/SEW-KMLTask/rutas_turisticas_kml.xml',
+        url: 'https://fincamd.github.io/SEW-KMLTask/rutas_turisticas_kml.kml',
         map: mapaGeoposicionado
     });
 }
