@@ -5,7 +5,7 @@ function initMap() {
     });
 
     var ctaLayer = new google.maps.KmlLayer({
-        url: 'https://googlearchive.github.io/js-v2-samples/ggeoxml/cta.kml',
+        url: 'https://fincamd.github.io/SEW-KMLTask/rutas_turisticas_kml.xml',
         map: map
     });
 }
