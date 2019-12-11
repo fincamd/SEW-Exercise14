@@ -12,7 +12,7 @@ function initMap() {
 
     var ctaLayer = new google.maps.KmlLayer({
         url: 'https://fincamd.github.io/SEW-KMLTask/rutas_turisticas_kml.xml',
-        map: map
+        map: mapaGeoposicionado
     });
 }
 
